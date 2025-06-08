@@ -58,6 +58,6 @@ I especially enjoy making games—usually in Unity—because I love FPS games!
 
 ## GitHub Stats
 
-[![Bisher Almasri's GitHub stats](https://github-readme-stats-seven-eta-58.vercel.app/api?username=BISHER-AL-MASRI&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/BISHER-AL-MASRI)
+[![Bisher Almasri's GitHub stats](https://github-readme-stats-seven-eta-58.vercel.app/api?username=BISHER-ALMASRI&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/BISHER-ALMASRI)
 
-![Top Languages](https://github-readme-stats-seven-eta-58.vercel.app/api/top-langs/?username=BISHER-AL-MASRI&size_weight=0.25&count_weight=0.5&langs_count=8&hide=makefile,shell,html,css,javascript&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+![Top Languages](https://github-readme-stats-seven-eta-58.vercel.app/api/top-langs/?username=BISHER-ALMASRI&size_weight=0.25&count_weight=0.5&langs_count=8&hide=makefile,shell,html,css,javascript&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
