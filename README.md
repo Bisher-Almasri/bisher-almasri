@@ -2,7 +2,7 @@
 
 ## A Programmer
 
-I'm a programmer passionate about learning and building new things. Since I started coding in 2020 (when I was 10!), I've been exploring various programming languages and technologies. I now code in over 14 languages, with expertise in Rust, TypeScript, Python, and more.  
+I'm a programmer passionate about learning and building new things. Since I started coding in 2021 (when I was 10!), I've been exploring various programming languages and technologies. I now code in over 14 languages, with expertise in Rust, TypeScript, Python, and more.  
 I especially enjoy making games—usually in Unity—because I love FPS games!
 (I lost access to my old account [BISHER-AL-MASRI](https://github.com/BISHER-AL-MASRI)
 
