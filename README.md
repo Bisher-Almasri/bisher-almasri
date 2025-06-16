@@ -9,8 +9,8 @@ I especially enjoy making games—usually in Unity—because I love FPS games!
 - 🌍 **Location:** Canada  
 - 🖥️ **Portfolio:** [bisheralmasri.site](http://bisheralmasri.site)  
 - ✉️ **Contact:** [bisherk.almasri@gmail.com](mailto:bisherk.almasri@gmail.com)  
-- 🚀 **Current Project:** [Supa Shell](http://github.com/bisher-al-masri/supa-shell)  
-- 🧠 **Learning:** C++ and Unreal Engine  
+- 🚀 **Current Project:** [Helium](http://github.com/bisher-masri/helium)  
+- 🧠 **Learning:** Opngl
 - 🤝 **Open to Collaborate On:** Anything!
 
 
